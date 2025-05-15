@@ -1,5 +1,6 @@
 ---
 title: "Lab 6 - Spicy"
+author: Jose Garcia
 subtitle: "Performing Many Different Versions of an Analysis"
 editor: source
 ---
